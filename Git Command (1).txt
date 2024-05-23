@@ -1,0 +1,16 @@
+Git Clone:
+git init
+git clone <link> --branch <branch name> --single-branch
+
+ 
+Git Update:
+git fetch
+git pull
+ 
+
+Git Commit:
+git add .
+git commit -m "comments"
+git Push
+
+ 
